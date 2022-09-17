@@ -6,9 +6,10 @@ Aplicação full-stack desenvolvida para encontrar um duo em múltiplos jogos, c
 <!--ts-->
  * [Pré-requisitos](#pré-requisitos) 
 * [Instalação](#instalação) 
-	 * [Executando o servidor](#executando-o-servidor:) 
-	 * [Executando o web](#executando-o-web:) 
-	 * [Executando o mobile](#executando-o-mobile:) 
+	 * [Executando o servidor](#executando-o-servidor) 
+	 * [Executando o web](#executando-o-web) 
+	 * [Executando o mobile](#executando-o-mobile) 
+ * [Resultado](#resultado) 
  * [Tecnologias](#tecnologias) 
 <!--te-->
 # Pré-requisitos
