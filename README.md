@@ -4,12 +4,11 @@ Aplicação full-stack desenvolvida para encontrar um duo em múltiplos jogos, c
 # Tabela de conteúdos
 
 <!--ts-->
- * [Sobre](#Sobre) 
- * [Pré-requisitos](#pre-requisitos) 
-* [Instalação](#instalacao) 
-	 * [Executando o servidor](#servidor) 
-	 * [Executando o web](#web) 
-	 * [Executando o mobile](#mobile) 
+ * [Pré-requisitos](#pré-requisitos) 
+* [Instalação](#instalação) 
+	 * [Executando o servidor](#executando-o-servidor:) 
+	 * [Executando o web](#executando-o-web:) 
+	 * [Executando o mobile](#executando-o-mobile:) 
  * [Tecnologias](#tecnologias) 
 <!--te-->
 # Pré-requisitos
@@ -64,7 +63,7 @@ Dentro do arquivo .env
 ### Global
  - [Typescript](https://www.typescriptlang.org) 
  
-### Web
+### Front-End (web)
  -  [Vitejs](https://vitejs.dev) 
  - [Reactjs](https://reactjs.org) 
 
@@ -72,7 +71,7 @@ Dentro do arquivo .env
  - [React Native](https://reactnative.dev)
  - [Expo](https://expo.dev) 
  
-### Server
+### Back-End
 - [Nodejs](https://nodejs.org/en/) 
  - [Prisma](https://www.prisma.io)
 
