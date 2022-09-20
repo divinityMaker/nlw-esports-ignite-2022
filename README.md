@@ -65,8 +65,9 @@ Dentro do arquivo .env
  - [Typescript](https://www.typescriptlang.org) 
  
 ### Front-End (web)
- -  [Vitejs](https://vitejs.dev) 
+ - [Vitejs](https://vitejs.dev) 
  - [Reactjs](https://reactjs.org) 
+ - [Tailwind](https://tailwindcss.com) 
 
 ### Mobile
  - [React Native](https://reactnative.dev)
